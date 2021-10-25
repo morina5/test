@@ -8,9 +8,10 @@ The essay begins by postulating 10 short statements that challenge the beliefs o
 
 A major claim made by Siegel in this article is that “Most of what people call “global warming” is natural. The earth is warming, but not quickly, not much, and not lately.” Siegel also claims that CO₂ has little impact on climate and “All the decarbonization we can do isn’t going to change the climate much.” After years of closely monitoring the global temperature over land and seas, it is clear that Earth is actually warming very quickly on a relative timescale (Met Office Hadley Centre, 2016) and is directly correlated to increasing levels of greenhouse gases in the atmosphere, specifically CO₂ (Rohling et al., 2012). The 5th report from the IPCC concludes that human activity has been the dominant cause of warming in the past century (Intergovernmental Panel on Climate Change, 2014a). The report states that the global mean of surface temperature is approximately 1°C higher than that of Earth in 1850 (see Figure 1).
 
-! [image] (fig1)
+![image](fig1.png)
 
 Figure 1: Observed annual and decadal global temperature averages across land and oceans relative to the mean temperature between 1986 and 2005 (Intergovernmental Panel on Climate Change, 2014b).
+
 
 Another claim made by Siegel is that “Climate models are not yet skillful; predictions are unresolved.” This statement shows a lack of understanding of climate models and scientific uncertainty. A skillful model is not necessarily 100% accurate, but will reveal some information or trend that we wouldn’t know otherwise. A prime example of a skillful climate model is the prediction made by Hargreaves (2010) of future warming in response to increasing anthropogenic greenhouse gas emissions. 
 
